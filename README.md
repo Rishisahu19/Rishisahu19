@@ -1,56 +1,73 @@
 # Hi there, I'm Rishi Sahu 👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science & Engineering student currently pursuing my B.Tech at Pranveer Singh Institute of Technology. I love working on innovative projects, solving complex problems, and continuously learning new technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=Rishisahu19&color=green)
 
-## 🚀 About Me
+## About Me
 
-- 📚 **Education**: B.Tech in Computer Science & Engineering (2021 - 2025) from Pranveer Singh Institute of Technology with a CGPA of 7.9/10.
-- 🌟 **CPP Internship**: Worked at Codsoft, gaining valuable experience in C++ development.
-- 🌱 **Currently Learning**: Deepening my knowledge in full-stack development and machine learning.
+I'm a passionate Computer Science and Engineering student at Pranveer Singh Institute Of Technology, Kanpur (AKTU). My interests lie in software development, problem-solving, and building efficient applications. I enjoy working with various technologies and constantly learning new things.
 
-## 🛠 Technical Skills
+- 🔭 I’m currently working on: Enhancing my real-time chat application and exploring advanced data structures and algorithms.
+- 🌱 I’m currently learning: Advanced React.js and backend optimizations with Node.js.
+- 👯 I’m looking to collaborate on: Open-source projects and innovative web applications.
+- 💬 Ask me about: Web development, Python projects, and competitive programming.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishi-sahu-073a81232) | [Email](mailto:rishisahu193@gmail.com)
+- ⚡ Fun fact: I have solved over 600 problems on LeetCode and 150 problems on GeeksforGeeks!
 
-- **Languages**: C++, C, Python, JavaScript
-- **Frontend**: HTML, CSS, TailwindCSS, Bootstrap, React
-- **Backend**: Node.js, Express.js
-- **Web Technologies**: Socket.IO, WebSockets, FastAPI
-- **Developer Tools**: Postman, VS Code, GitHub
-- **Database**: SQL, MongoDB
+## Skills
 
-## 💻 Projects
+Here are some of the technologies and tools I work with:
+
+- **Programming Languages**: ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- **Frontend Technologies**: ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+- **Backend Technologies**: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socket.io) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
+- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+- **Soft Skills**: Problem-solving, Troubleshooting, Teamwork, Time Optimization, Active Listening
+
+## Projects
+
+Here are some of the projects I've been working on:
 
 ### Real-Time Chat Application (MERN)
-- **Instant Communication**: Created a real-time chat platform for seamless communication between users with WebSocket technology.
-- **Secure Access**: Implemented robust authentication mechanisms, achieving a 99.9% reduction in unauthorized access attempts.
-- **Efficient Data Handling**: Utilized MongoDB to handle over 1 million user profiles and messages, reducing query response time by 40%.
+- **Instant Communication**: Created a real-time chat platform for seamless communication between users, achieving swift message delivery with WebSocket technology, reducing message latency by 50%.
+- **Secure Access**: Implemented robust authentication mechanisms, resulting in a 99.9% reduction in unauthorized access attempts.
+- **Efficient Data Handling**: Utilized MongoDB to handle over 1 million user profiles and messages, reducing database query response time by 40%.
 - **Intuitive Design**: Designed a user-friendly interface for easy navigation and enhanced user experience.
+- [Repository Link](https://github.com/Rishisahu19/Projects)
 
 ### Potato Disease Classifier
-- **High Accuracy**: Developed a TensorFlow-based deep learning model with a classification accuracy of 96% for early and late blight detection.
-- **Efficient Processing**: Implemented advanced data preprocessing techniques, reducing model training time by 30% and improving inference speed by 25%.
+- Developed a TensorFlow-based deep learning model achieving a classification accuracy of 96% for early blight and late blight detection.
+- Implemented advanced data preprocessing techniques, resulting in a 30% reduction in model training time and a 25% improvement in inference speed.
+- [Repository Link](https://github.com/Rishisahu19/Projects)
 
 ### Innovative Web Projects Showcase
-- **Currency Converter**: An application for converting currencies with real-time exchange rates.
-- **Password Manager**: A secure tool for managing and storing passwords.
-- **Email Validator**: A tool to validate email addresses.
-- **Portfolio Website**: My personal portfolio showcasing my projects and skills.
-- **NPM Package**: Developed and published a useful npm package.
+- **Currency Converter**
+- **Password Manager**
+- **Email Validator**
+- **Portfolio Website**
+- **NPM Package**
+- [Repository Link](https://github.com/Rishisahu19/Projects)
 
-## 🏆 Problem Solving
+## Competitive Programming
 
-- **LeetCode**: Solved over 600 algorithmic challenges, specializing in dynamic programming, string manipulation, arrays, stacks, heaps, trees, and graphs. [LeetCode Profile](https://leetcode.com/rishisahu193/)
-- **GeeksforGeeks**: Solved 150+ problems covering various algorithms and data structures. [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/rishisamixn/)
-- **HackerRank**: Achieved a 5-star rating in problem-solving, demonstrating exceptional problem-solving skills. [HackerRank Profile](https://www.hackerrank.com/rishisahu193)
+- **LeetCode**: Successfully tackled over 600 algorithmic challenges.
+- **GeeksforGeeks (GFG)**: Solved 150+ problems on various topics such as algorithms and data structures.
+- **HackerRank**: Attained the highest rating in problem-solving, demonstrating exceptional abilities.
 
-## 📫 How to Reach Me
+## Contact Me
 
-- **Email**: [rishisahu193@gmail.com](mailto:rishisahu193@gmail.com)
-- **LinkedIn**: [Rishi Sahu](https://www.linkedin.com/in/rishi-sahu-073a81232)
-- **GitHub**: [Rishisahu19](https://github.com/Rishisahu19)
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rishi-sahu-073a81232) or [Email](mailto:rishisahu193@gmail.com). You can also check out my competitive programming profiles and repositories:
 
-## 🌐 Explore More
+- [LeetCode](https://leetcode.com/rishisahu193/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rishisamixn/)
+- [GitHub](https://github.com/Rishisahu19)
 
-- [My Projects](https://github.com/Rishisahu19/Projects)
-- [Resume](https://drive.google.com/file/d/12lhkuSdFhBfaG1vREIl15qH87F9-FVfJ/view?usp=drive_link)
+## GitHub Stats
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on projects or just want to chat about technology.
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishisahu19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisahu19&layout=compact&theme=radical)
+
+## Thanks for visiting my profile!
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to say hi! 😊
