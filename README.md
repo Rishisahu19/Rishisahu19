@@ -51,6 +51,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science & Engineering st
 ## 🌐 Explore More
 
 - [My Projects](https://github.com/Rishisahu19/Projects)
-- [Resume](https://drive.google.com/file/d/1VwE7p0deWC2Dit5vGFryKvwx0x8_zKTm/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/12lhkuSdFhBfaG1vREIl15qH87F9-FVfJ/view?usp=drive_link)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on projects or just want to chat about technology.
