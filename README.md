@@ -34,12 +34,12 @@ Here are some of the projects I've been working on:
 - **Secure Access**: Implemented robust authentication mechanisms, resulting in a 99.9% reduction in unauthorized access attempts.
 - **Efficient Data Handling**: Utilized MongoDB to handle over 1 million user profiles and messages, reducing database query response time by 40%.
 - **Intuitive Design**: Designed a user-friendly interface for easy navigation and enhanced user experience.
-- [Repository Link](https://github.com/Rishisahu19/Projects)
+- [Repository Link](https://github.com/Rishisahu19/MERN_CHAT-X)
 
 ### Potato Disease Classifier
 - Developed a TensorFlow-based deep learning model achieving a classification accuracy of 96% for early blight and late blight detection.
 - Implemented advanced data preprocessing techniques, resulting in a 30% reduction in model training time and a 25% improvement in inference speed.
-- [Repository Link](https://github.com/Rishisahu19/Projects)
+- [Repository Link](https://github.com/Rishisahu19/Potato_Project)
 
 ### Innovative Web Projects Showcase
 - **Currency Converter**
@@ -51,8 +51,8 @@ Here are some of the projects I've been working on:
 
 ## Competitive Programming
 
-- **LeetCode**: Successfully tackled over 600 algorithmic challenges.
-- **GeeksforGeeks (GFG)**: Solved 150+ problems on various topics such as algorithms and data structures.
+- **LeetCode**: Successfully tackled over 600 algorithmic challenges, specializing in dynamic programming, string manipulation, array manipulation, stack, heap, tree structures, and graph.
+- **GeeksforGeeks (GFG)**: Solved 150+ problems on various topics such as algorithms, data structures, and problem-solving techniques.
 - **HackerRank**: Attained the highest rating in problem-solving, demonstrating exceptional abilities.
 
 ## Contact Me
