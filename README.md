@@ -31,8 +31,7 @@ Here are some of the technologies and tools I work with:
 - **Backend Technologies**: 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) 
-  ![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socket.io) 
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socket.io)
 - **Databases**: 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -59,11 +58,15 @@ Here are some of the projects I've been working on:
 - Developed a TensorFlow-based deep learning model achieving a classification accuracy of 96% for early blight and late blight detection.
 - Implemented advanced data preprocessing techniques, resulting in a 30% reduction in model training time and a 25% improvement in inference speed.
 
-### [Innovative Web Projects Showcase](https://github.com/Rishisahu19/Projects)
+### [Portfolio Website](https://github.com/Rishisahu19/PORTFOLIO)
+- Developed a personal portfolio website using HTML, CSS, and JavaScript, featuring light and dark modes.
+- Improved website usability and engagement, achieving a 50% increase in user interaction and satisfaction.
+
+### [Innovative Web Projects Showcase](https://github.com/Rishisahu19/Innovative-Web-Projects-Showcase)
+- **Tic-Tac-Toe Game**
+- **Rock Paper Scissors**
 - **Currency Converter**
 - **Password Manager**
-- **Email Validator**
-- **Portfolio Website**
 - **NPM Package**
 
 ## Competitive Programming
