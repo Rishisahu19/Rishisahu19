@@ -1,5 +1,5 @@
 # Hi there, I'm Rishi Sahu 👋
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishisahu19&color=green)
 
