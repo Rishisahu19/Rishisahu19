@@ -1,5 +1,7 @@
 # Hi there, I'm Rishi Sahu 👋
 
+![Profile Banner](https://github.com/Rishisahu19/Rishisahu19/blob/main/Profile.png)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishisahu19&color=green)
 
 ## About Me
