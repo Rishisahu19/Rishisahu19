@@ -84,10 +84,6 @@ Here are some of the projects I've been working on:
 - **GeeksforGeeks (GFG):** Solved 150+ problems on various topics such as algorithms, data structures, and problem-solving techniques.
 - **HackerRank:** Attained the highest rating in problem-solving, demonstrating exceptional abilities.
 
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcode-badge.chyroc.cn/?username=Rishisahu193&theme=dark)
-
 ## Contact Me
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rishi-sahu-073a81232) or [Email](mailto:rishisahu193@gmail.com). You can also check out my competitive programming profiles and repositories:
