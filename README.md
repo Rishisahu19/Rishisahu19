@@ -86,7 +86,7 @@ Here are some of the projects I've been working on:
 
 ### LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Rishisahu193)
+![LeetCode Stats](https://leetcode-badge.chyroc.cn/?username=Rishisahu193&theme=dark)
 
 ## Contact Me
 
