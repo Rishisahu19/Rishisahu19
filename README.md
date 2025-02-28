@@ -10,10 +10,10 @@
 
 🎓 **Computer Science & Engineering Student** at **Pranveer Singh Institute of Technology, Kanpur (AKTU)**  
 💻 Passionate about **software development, problem-solving**, and building **scalable applications**.  
-📚 Exploring **emerging technologies** and refining my skills continuously.  
+📚 Exploring **emerging technologies** and continuously refining my skills.  
 
-- 🔭 **Currently Working On:** Enhancing my **real-time chat application** and diving deeper into **advanced data structures and algorithms**.
-- 🌱 **Currently Learning:** Advanced **React.js** and **backend optimization with Node.js**.
+- 🔭 **Currently Working On:** Enhancing my **real-time chat application** and diving deeper into **advanced DSA & algorithms**.
+- 🌱 **Currently Learning:** Advanced **React.js**, **backend optimization with Node.js**, and **AWS cloud services**.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative software solutions.
 - 💬 **Ask Me About:** Web development, Python projects, competitive programming, and problem-solving strategies.
 - 📫 **How to Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishi-sahu-19s/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishisahu193@gmail.com)
@@ -41,7 +41,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -76,10 +77,11 @@
 
 ## 🎖️ Achievements & Certifications
 
-✔ **AWS Certified Cloud Practitioner** (Ongoing)  
-✔ **5⭐ in Problem-Solving on HackerRank** (Top 1%)  
-✔ **800+ LeetCode Challenges** solved (Focused on DSA & CP)  
+✔ **AWS Certified Cloud Practitioner** *(Ongoing)*  
+✔ **5⭐ in Problem-Solving on HackerRank** *(Top 1%)*  
+✔ **800+ LeetCode Challenges** solved *(Focused on DSA & CP)*  
 ✔ **300+ GFG Challenges** solved  
+✔ **9th Rank in ACPC 2K24** *(ABES Engineering College)*  
 ✔ **Top Rank in Coding Contests**  
 
 ---
