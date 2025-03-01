@@ -82,7 +82,6 @@
 ✔ **800+ LeetCode Challenges** solved *(Focused on DSA & CP)*  
 ✔ **300+ GFG Challenges** solved  
 ✔ **9th Rank in ACPC 2K24** *(ABES Engineering College)*  
-✔ **Top Rank in Coding Contests**  
 
 ---
 
