@@ -67,7 +67,7 @@
 ✔ Integrated a **contact form** with validation, boosting engagement by **30%**.  
 
 ### 🔹 Other Web Projects
-✔ [Currency Converter](https://github.com/Rishisahu19/Innovative-Web-Projects-Showcase)  
+✔ Currency Converter
 ✔ Password Manager  
 ✔ Tic-Tac-Toe Game  
 ✔ Rock Paper Scissors  
