@@ -67,7 +67,7 @@
 ✔ Integrated a **contact form** with validation, boosting engagement by **30%**.  
 
 ### 🔹 Other Web Projects
-✔ Currency Converter
+✔ Currency Converter  
 ✔ Password Manager  
 ✔ Tic-Tac-Toe Game  
 ✔ Rock Paper Scissors  
